@@ -1,5 +1,6 @@
 # BB8
 Applications
+
 Starwars BB8 model has varied applications, it’s implementation scale can be pitched from a all terrain vehicle to a space rover. The robot can be used for navigation, patrolling, communication and other purposes. The best part of our robot is that it will never topple, this tragedy occurred with Mars rover “Discovery” which toppled and suffered serious complications. Coming on navigation part , since the robot’s movement mechanism is based on shifting of COG of the body inside the outer sphere and the contact area is almost equivalent in all surfaces hence the robot can easily navigate maneuvering different kinds of surfaces.
 
 The head of the BB8 model is detachable , hence it can be used to install various kinds of plug-ins like a communication enhancing network creation antennae can be installed in the head , a camera assemble can be embedded in the head which can help in patrolling  remote areas and also for spying purposes since the size of the robot can be varied according to the need. 
